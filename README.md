@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sule10
-- 👀 I’m interested in compuert security and CEH
+- 👀 I’m interested in compuert security and CEH and software engineering
 - 🌱 I’m currently learning computer security and forensics
 - 💞️ I’m looking to collaborate on security projects
 - 📫 How to reach me on email 
